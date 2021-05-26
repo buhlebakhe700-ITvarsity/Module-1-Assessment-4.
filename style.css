@@ -1,0 +1,24 @@
+table{
+     font-family : Helvetica, sans-serif;
+    background-color: aqua;
+    
+}
+th {
+    font-weight     : 900;
+    background-color: greenyellow;
+    color           : blue;
+}
+h1{
+    colour:#2296c7;
+    font font-size: 40px;
+    font-family: fantasy
+    text align : center;
+    
+}
+table{
+      font-family    : Helvetica, sans-sarif;
+      border-collapse: collapse;
+      border-width   : 2px;
+      border-style   : groove;
+      border-color   :#2695A4;
+}
